@@ -6,8 +6,7 @@
 
 I took the public Olist dataset, about 100K orders from a Brazilian online marketplace between 2016 and 2018, and worked on it from start to finish. I loaded the 9 CSV files into SQL Server, checked every table, cleaned them in SQL views, answered three business questions with queries, and built a three-page Power BI dashboard on top. At the end I checked that SQL and Power BI give the same numbers.
 
-![Dashboard preview](<img width="708" height="400" alt="Screenshot 2026-11-06 135321" src="https://github.com/user-attachments/assets/ba4b8789-b174-484a-afd6-d37e32fa699c" />
-)
+![Dashboard preview](https://github.com/user-attachments/assets/ba4b8789-b174-484a-afd6-d37e32fa699c)
 
 The dashboard is the file `project_olist.pbix` (open it with the free Power BI Desktop). All three pages are shown in the Power BI Dashboard section below.
 
